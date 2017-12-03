@@ -1,0 +1,35 @@
+h1{color: khaki;
+  font-family: helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+}
+.br{
+  color: white;
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: left;;
+  background-color: mediumspringgreen;
+}
+.fr{
+  color: white;
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: left;;
+  background-color: lightcoral;
+}
+.pn{
+  color: white;
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: left;;
+  background-color: skyblue;
+}
+
+.BluBold{font-family: helvetica;
+font-weight: bold;
+color: blue;
+}
